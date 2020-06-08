@@ -1,5 +1,4 @@
-# adobe-scripting
-
+# Adobe Scripting
 This guide walks through the process of getting started writing scripts in Javascript for use in [Adobe Illustrator CC](https://www.adobe.com/products/illustrator.html).
 
 This tutorial was written using Adobe Illustrator CC (2017) running on macOS (10.12).
